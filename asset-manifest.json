@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.a6d84588.chunk.css",
+    "main.js": "/portfolio/static/js/main.f5a70f6b.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.f5a70f6b.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.aa831906.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.aa831906.js.map",
+    "static/css/2.818011ed.chunk.css": "/portfolio/static/css/2.818011ed.chunk.css",
+    "static/js/2.34aec13f.chunk.js": "/portfolio/static/js/2.34aec13f.chunk.js",
+    "static/js/2.34aec13f.chunk.js.map": "/portfolio/static/js/2.34aec13f.chunk.js.map",
+    "static/js/3.0978e76e.chunk.js": "/portfolio/static/js/3.0978e76e.chunk.js",
+    "static/js/3.0978e76e.chunk.js.map": "/portfolio/static/js/3.0978e76e.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/portfolio/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.a6d84588.chunk.css.map": "/portfolio/static/css/main.a6d84588.chunk.css.map",
+    "static/js/2.34aec13f.chunk.js.LICENSE.txt": "/portfolio/static/js/2.34aec13f.chunk.js.LICENSE.txt",
+    "static/media/flaskBlog.a282fca2.png": "/portfolio/static/media/flaskBlog.a282fca2.png",
+    "static/media/headshot.85da27fa.JPG": "/portfolio/static/media/headshot.85da27fa.JPG",
+    "static/media/northeastern.6d314232.png": "/portfolio/static/media/northeastern.6d314232.png",
+    "static/media/project-1.b00ad789.gif": "/portfolio/static/media/project-1.b00ad789.gif",
+    "static/media/project-2.b541ecbc.gif": "/portfolio/static/media/project-2.b541ecbc.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa831906.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.34aec13f.chunk.js",
+    "static/css/main.a6d84588.chunk.css",
+    "static/js/main.f5a70f6b.chunk.js"
+  ]
+}
